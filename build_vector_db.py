@@ -5,7 +5,7 @@ import numpy as np
 import pickle
 import os
 
-PDF_PATH = r"documents/Currículum Vitae_pdf.pdf"
+PDF_PATH = r"documents/CV.pdf"
 
 reader = PdfReader(PDF_PATH)
 
